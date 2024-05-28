@@ -1,0 +1,5 @@
+export const HEADER_HEIGHT_UP_MD = 72;
+export const HEADER_HEIGHT_ONLY_SM = 64;
+export const HEADER_HEIGHT_DOWN_SM = 56;
+
+export const MAX_HEADER_NOTIFICATION_COUNT = 999;

@@ -1,0 +1,1 @@
+export default "data:image/svg+xml,%3csvg%20width='20'%20height='20'%20viewBox='0%200%2020%2020'%20fill='currentColor'%20xmlns='http://www.w3.org/2000/svg'%3e%3cpath%20fill-rule='evenodd'%20clip-rule='evenodd'%20d='M18%205.5H2V3.5H18V5.5ZM18%2011H2V9H18V11ZM18%2016.5H2V14.5H18V16.5Z'/%3e%3c/svg%3e"

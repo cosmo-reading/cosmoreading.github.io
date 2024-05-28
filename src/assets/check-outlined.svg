@@ -1,0 +1,1 @@
+export default "data:image/svg+xml,%3csvg%20width='15'%20height='15'%20viewBox='0%200%2015%2015'%20xmlns='http://www.w3.org/2000/svg'%3e%3crect%20x='.5'%20y='.5'%20width='14'%20height='14'%20rx='4'%20stroke='%23888'%20fill='none'%20fill-rule='evenodd'/%3e%3c/svg%3e"
